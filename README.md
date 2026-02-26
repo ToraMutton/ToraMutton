@@ -10,8 +10,9 @@
 - 🔭 Updating my personal homepage toramutton.me using Astro and TypeScript!
 - 🐧 I'm learning Rust and Java while customizing Arch Linux to my liking.
 - 📫 You can find my posts and blog at...
-  - [My homepage](toramutton.me)
-  - [Twitter - @toramutton](https://twitter.com/toramutton)
+  - [My Homepage - toramutton.me](https://toramutton.me)
+  - [Twitter - @toramutton](https://twitter.com/ToraMutton)
+  - [Twitter - @Tr3t_s](https://twitter.com/Tr3t_s)
 
 <br>
 
