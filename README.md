@@ -8,7 +8,7 @@
 - 📫 **Find me online:**
 
 <p align="left">
-  <a href="https://toramutton.me"><img src="https://img.shields.io/badge/Website-toramutton.me-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://toramutton.me"><img src="https://img.shields.io/badge/MY_HOMEPAGE-toramutton.me-2bbc8a?style=for-the-badge&logo=vivaldi&logoColor=white" /></a>
   <a href="https://twitter.com/ToraMutton"><img src="https://img.shields.io/badge/Twitter-Main-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://twitter.com/Tr3t_s"><img src="https://img.shields.io/badge/Twitter-Sub-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <br>
@@ -26,11 +26,11 @@
 <br>
 
 ## 📊 GitHub Stats & Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToraMutton&theme=tokyonight&area=true&hide_border=true" width="100%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToraMutton&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true&v=6" width="100%" />
+  
+  <br><br>
 
-<br>
-
-<div align="left">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ToraMutton&theme=tokyonight&hide_border=true" />
-  <img alt="Top Langs" height="170px" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ToraMutton&theme=tokyonight&hide_border=true&v=6" height="195" />
+  <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="195" />
 </div>
