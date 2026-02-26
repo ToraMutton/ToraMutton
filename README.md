@@ -27,6 +27,5 @@
 
 ## 📊 GitHub Stats & Activity
 <div align="left">
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=ToraMutton&theme=tokyonight&layout=compact&show_icons=true&v=1" />
-  <img alt="Top Langs" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToraMutton&theme=tokyonight&layout=compact&v=1" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ToraMutton&theme=tokyonight&hide_border=true" />
 </div>
