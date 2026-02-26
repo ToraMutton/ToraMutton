@@ -26,7 +26,7 @@
 <br>
 
 ## 📊 GitHub Stats & Activity
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=toramutton&theme=tokyonight&layout=compact&show_icons=true" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toramutton&theme=tokyonight&layout=compact" />
+<div align="left">
+  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=ToraMutton&theme=tokyonight&layout=compact&show_icons=true&v=1" />
+  <img alt="Top Langs" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToraMutton&theme=tokyonight&layout=compact&v=1" />
 </div>
