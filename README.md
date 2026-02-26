@@ -25,7 +25,7 @@
 </div>
 <br>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats & Activity
 <div align="left">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ToraMutton&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ToraMutton&theme=tokyonight&hide_border=true" />
 </div>
