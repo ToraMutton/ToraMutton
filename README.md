@@ -5,7 +5,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 > トラマト / 寅松 / ToraMutton
 
-- 🐾 I'm a first-year student at the University of Electro-Communications, enjoying learning various technologies.
+- 🐾 I'm a first-year student at the UEC, enjoying learning various technologies.
 - ⚙️ I have a custom-built PC assembled in February 2026 that dual-boots Windows 11 and Arch Linux.
 - 🔭 Updating my personal homepage toramutton.me using Astro and TypeScript!
 - 🐧 I'm learning Rust and Java while customizing Arch Linux to my liking.
@@ -13,6 +13,7 @@
   - [My Homepage - toramutton.me](https://toramutton.me)
   - [Twitter - @toramutton](https://twitter.com/ToraMutton)
   - [Twitter - @Tr3t_s](https://twitter.com/Tr3t_s)
+  - [note](https://note.com/toramutton)
 
 <br>
 
