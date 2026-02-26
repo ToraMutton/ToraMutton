@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack & Arsenal
 <div align="left">
-  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=arch,windows,c,cpp,rust,python,ts,java,ruby,astro,html,css,github,vscode" />
+  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=arch,windows,c,cpp,rust,python,js,ts,java,ruby,astro,html,css,git,vscode,neovim" />
 </div>
 <br>
 
