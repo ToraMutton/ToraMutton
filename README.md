@@ -39,5 +39,5 @@
 ## 📊 GitHub Stats & Activity
 <div align="left">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ToraMutton&theme=tokyonight&hide_border=true" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toramutton&theme=tokyonight&layout=compact&hide_border=true" />
+  <img alt="Top Langs" height="170px" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
