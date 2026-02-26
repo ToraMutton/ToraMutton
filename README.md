@@ -13,7 +13,9 @@
   - [My Homepage - toramutton.me](https://toramutton.me)
   - [Twitter - @toramutton](https://twitter.com/ToraMutton)
   - [Twitter - @Tr3t_s](https://twitter.com/Tr3t_s)
-  - [note](https://note.com/toramutton)
+  - [note - ToraMutton](https://note.com/toramutton)
+  - [Zenn - ToraMutton](https://zenn.dev/toramutton)
+  - [Qiita - ToraMutton](https://qiita.com/ToraMutton)
 
 <br>
 
