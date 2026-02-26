@@ -8,24 +8,13 @@
 - 📫 **Find me online:**
 
 <p align="left">
-  <a href="https://toramutton.me">
-    <img src="https://img.shields.io/badge/toramutton.me-Website-2bbc8a?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://twitter.com/ToraMutton">
-    <img src="https://img.shields.io/badge/@ToraMutton-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Main"/>
-  </a>
-  <a href="https://twitter.com/Tr3t_s">
-    <img src="https://img.shields.io/badge/@Tr3t_s-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Sub"/>
-  </a>
-  <br> <a href="https://zenn.dev/toramutton">
-    <img src="https://img.shields.io/badge/toramutton-Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"/>
-  </a>
-  <a href="https://qiita.com/ToraMutton">
-    <img src="https://img.shields.io/badge/toramutton-Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita"/>
-  </a>
-  <a href="https://note.com/toramutton">
-    <img src="https://img.shields.io/badge/toramutton-note-00c897?style=flat-square&logo=note&logoColor=white" alt="note"/>
-  </a>
+  <a href="https://toramutton.me"><img src="https://img.shields.io/badge/Website-toramutton.me-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://twitter.com/ToraMutton"><img src="https://img.shields.io/badge/Twitter-Main-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/Tr3t_s"><img src="https://img.shields.io/badge/Twitter-Sub-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <br>
+  <a href="https://zenn.dev/toramutton"><img src="https://img.shields.io/badge/Zenn-Blog-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
+  <a href="https://qiita.com/ToraMutton"><img src="https://img.shields.io/badge/Qiita-Tips-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
+  <a href="https://note.com/toramutton"><img src="https://img.shields.io/badge/note-Life-00c897?style=for-the-badge&logo=note&logoColor=white" /></a>
 </p>
 
 <br>
@@ -37,6 +26,10 @@
 <br>
 
 ## 📊 GitHub Stats & Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToraMutton&theme=tokyonight&area=true&hide_border=true" width="100%" />
+
+<br>
+
 <div align="left">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ToraMutton&theme=tokyonight&hide_border=true" />
   <img alt="Top Langs" height="170px" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
