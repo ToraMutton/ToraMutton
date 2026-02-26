@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://toramutton.me"><img src="https://img.shields.io/badge/MY_HOMEPAGE-toramutton.me-2bbc8a?style=for-the-badge&logo=vivaldi&logoColor=white" /></a>
   <a href="https://twitter.com/ToraMutton"><img src="https://img.shields.io/badge/Twitter-Main-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://twitter.com/Tr3t_s"><img src="https://img.shields.io/badge/Twitter-Sub-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/Tr3t_s"><img src="https://img.shields.io/badge/Twitter-Tech-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <br>
   <a href="https://zenn.dev/toramutton"><img src="https://img.shields.io/badge/Zenn-Blog-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
   <a href="https://qiita.com/ToraMutton"><img src="https://img.shields.io/badge/Qiita-Tips-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
