@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-> トラマト / 寅松 / ToraMutton
+> トラマト - 寅松 - ToraMutton
 
 - 🐾 I'm a first-year student at the UEC, enjoying learning various technologies.
 - ⚙️ I have a custom-built PC assembled in February 2026 that dual-boots Windows 11 and Arch Linux.
