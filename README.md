@@ -5,7 +5,7 @@
 - ⚙️ I have a custom-built PC assembled in February 2026 that dual-boots Windows 11 and Arch Linux.
 - 🔭 Updating my personal homepage toramutton.me using Astro!
 - 🐧 I'm learning TypeScript and Rust while customizing Arch Linux to my liking.
-- 🪟 Recently, I started ricing Windows11 as well.
+- 🪟 I also enjoy ricing Windows11 as well.
 - 📫 **Find me online:**
 
 <p align="left">
