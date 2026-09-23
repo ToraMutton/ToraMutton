@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Website-toramutton.me-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://twitter.com/ToraMutton">
-    <img src="https://img.shields.io/badge/X-@ToraMutton-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@ToraMutton-1DA1F2?style=for-the-badge" />
   </a>
   <a href="https://zenn.dev/toramutton">
     <img src="https://img.shields.io/badge/Zenn-@toramutton-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
