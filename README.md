@@ -100,9 +100,9 @@
     alt="GitHub Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToraMutton&theme=tokyonight&utcOffset=9"
-    height="195"
-    alt="Productive Time"
-  />
+  src="https://streak-stats.demolab.com?user=ToraMutton&theme=tokyonight"
+  height="195"
+  alt="GitHub Streak"
+/>
 
 </div>
