@@ -1,12 +1,13 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 > トラマト / 寅松 / ToraMutton
 
-- 🎓 **UEC25 / Cluster I → Computer Science Program**
+- 🎓 **UEC25 / Cluster I (Computer Science Program)**
 - 🦀 Mainly working with **Rust / TypeScript / C**
-- 🧩 Interested in **Web, Compilers, and LLMs**
+- 🧩 Interested in **Web, Compilers, Computer Architecture, and LLMs**
 - 🐧 Daily-driving **Arch Linux + Hyprland + Caelestia Shell**, alongside Windows 11
-- 🤖 Exploring local AI with **AMD Radeon + ROCm**
+- 🤖 Exploring local LLM with **AMD Radeon + ROCm**
 - 🌐 Building things and writing about them at [**toramutton.me**](https://toramutton.me)
+
 
 <br>
 
